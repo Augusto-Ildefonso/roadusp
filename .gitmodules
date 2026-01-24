@@ -1,9 +1,0 @@
-[submodule "front-end"]
-	path = front-end
-	url = https://github.com/Augusto-Ildefonso/roadusp-frontend
-[submodule "back-end"]
-	path = back-end
-	url = https://github.com/Augusto-Ildefonso/roadusp-backend
-[submodule "scraper"]
-	path = scraper
-	url = https://github.com/Augusto-Ildefonso/roadusp-scraper
